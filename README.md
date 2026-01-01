@@ -4,6 +4,8 @@ Dec 2025 - PresentDec 2025 - Present
 
 I've recently started my very first Power BI project, focused on improving management visibility and decision-making within a fictional financial planning business providing comprehensive financial and investment advice.
 
+<a href="https://app.powerbi.com/links/13Mso21wDt?ctid=ac9a6da0-89db-4a43-be66-3a5358d2b21f&pbi_source=linkShare&bookmarkGuid=e1bf198b-1c09-4922-9d36-9a49ba116588">Click here!</a>
+
 # 🔍 The problem
 Senior management lacked a clear, consolidated view of adviser performance, profitability, and service delivery. Key metrics such as revenue, cost per advice, turnaround time, and advice mix were difficult to track consistently across time periods, limiting the ability to make timely, data-driven decisions.
 
